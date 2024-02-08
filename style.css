@@ -309,7 +309,7 @@ section {
 .about-pic {
   position: relative;
   border-radius: 2rem;
-  /* top: -250px; */
+  top: -35px;
 }
 
 .arrow {
